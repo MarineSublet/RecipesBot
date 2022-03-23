@@ -1,6 +1,5 @@
 # RecipesBot
-
-# Marine Sublet – Françoise Ruch 
+## Marine Sublet – Françoise Ruch 
  
 ## Subject  
 
@@ -19,13 +18,13 @@ Here is the link to the api that we used : https://www.themealdb.com/api.php
 We will write in red what the user says and in blue what the chatbot answers to make the instructions more understandable. 
 
  
-# scenario 1: Saying hello 
+### scenario 1: Saying hello 
 
 hello     
 
 >  Hello (name of the user).        
 
-scenario 2: Saying bye 
+### scenario 2: Saying bye 
 
 bye    
 >  Bye, have a nice day 
@@ -34,14 +33,13 @@ exit   
 >  Bye, have a nice day 
 
  
-
-scenario 3: To get help 
+### scenario 3: To get help 
 
 help     
 > If you have some problems, please contact our customer support at : 012030405060
  
 
-scenario 4: To get the youtube video of a recipe 
+### scenario 4: To get the youtube video of a recipe 
 
  
 
@@ -49,16 +47,16 @@ What is the youtube video to (make|do|cook|prepare) a pizza ?   
 > link : https://www.youtube.com/watch?v=Mt5lgUZRoUg 
  
 
-scenario 5: To get the ingredients of a recipe 
+### scenario 5: To get the ingredients of a recipe 
 
 
 What ingredients do I need to (make|do|cook|prepare) a pizza ?  
 > Ingredients : Water, Sugar, Yeast, Plain Flour, Salt, Olive Oil 
  
 
-scenario 6: To get the instructions to do a specific recipe 
+### scenario 6: To get the instructions to do a specific recipe 
  
- What are the (instructions|step) to (make|do|cook|prepare) a pizza ?  
+What are the (instructions|step) to (make|do|cook|prepare) a pizza ?  
 > Instructions : 1 Preheat the oven to 230°C. 
 
 2 Add the sugar and crumble the fresh yeast into warm water.  
